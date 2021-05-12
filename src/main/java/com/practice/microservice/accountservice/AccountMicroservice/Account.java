@@ -5,10 +5,6 @@ package com.practice.microservice.accountservice.AccountMicroservice;
 
 import java.io.Serializable;
 
-/**
- * @author Dinesh.Rajput
- *
- */
 public class Account implements Serializable{
 	
 	/**
