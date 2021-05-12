@@ -9,10 +9,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Repository;
 
-/**
- * @author Dinesh.Rajput
- *
- */
+
 @Repository
 public class StubAccountRepository implements AccountRepository {
 	
